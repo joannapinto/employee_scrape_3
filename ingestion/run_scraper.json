@@ -1,0 +1,12 @@
+{
+  "scrapers": [
+    {
+      "scraper_name": "https://raw.githubusercontent.com/plotly/datasets/master/2014_usa_states.csv",
+      "scraper_id": "emp1"
+    },
+    {
+      "scraper_name": "https://people.sc.fsu.edu/~jburkardt/data/csv/hw_200.csv",
+      "scraper_id": "emp2"
+    }
+  ]
+}
