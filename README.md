@@ -1,6 +1,6 @@
 # Employee Data Scraper & Processor
 
-This project helps in downloading, validating, and processing employee data from a file stored on the Google Drive. The goal is to clean and structure the data so it can be used for further analysis or even be stored in a data warehouse.
+This project performs employee data scraping, validation, and processing using Python. The goal is to clean and structure the data so it can be used for further analysis or even be stored in a data warehouse.
 
 ---
 
